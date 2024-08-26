@@ -1,7 +1,12 @@
 # React + Vite
-Clone the repo
-Run npm install
-Run npm run dev
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kunaldeshwal1/TodoList.git
+   cd TodoList
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
